@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'rspec2db'
-  s.version       = '1.2.2'
+  s.version       = '1.2.3'
   s.date          = '2019-08-27'
   s.summary       = 'Save your RSpec test results to a database'
   s.description   = 'A simple RSpec formatter to enable writing RSpec test results to any database using ActiveRecord'
